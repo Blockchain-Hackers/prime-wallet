@@ -1,5 +1,7 @@
 **Project Name:** Prime Wallet
 
+Android app download [app-release.apk](./build/app-release.apk)
+
 **Project Description:**
 Prime Wallet is a cutting-edge cryptocurrency wallet designed to empower users with the ability to securely manage their digital assets on the MultiversX blockchain. Our goal is to offer a feature-rich, user-friendly, and secure wallet solution that caters to both seasoned cryptocurrency enthusiasts and newcomers to the world of blockchain technology.
 
@@ -144,6 +146,8 @@ We have established a clear roadmap to guide the development and growth of Prime
 
 **Conclusion:**
 The Prime Wallet roadmap outlines our commitment to continual improvement and innovation. We aim to provide a feature-rich, secure, and user-friendly solution for the MultiversX blockchain community and the broader cryptocurrency market. We will work closely with our user base, gather feedback, and adapt to emerging technologies and trends to ensure that Prime Wallet remains a valuable asset in the world of blockchain and digital asset management.
+
+
 
 ```
 Flutter 3.7.12 • channel stable • https://github.com/flutter/flutter.git
