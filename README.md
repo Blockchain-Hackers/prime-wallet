@@ -1,5 +1,3 @@
-Description:
-
 **Project Name:** Prime Wallet
 
 **Project Description:**
